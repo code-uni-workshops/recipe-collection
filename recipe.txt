@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Tajine
 
 Potatoes
 Carrots
+=======
+Almond Nudles
+-Nudles
+-Vegetables
+-Almond creme
+>>>>>>> upstream/master
