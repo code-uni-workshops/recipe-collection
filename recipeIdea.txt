@@ -4,3 +4,4 @@ Pizza Hawai
 - cheese
 - pineapples
 - ham
+- cinnamon
