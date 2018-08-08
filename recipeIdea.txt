@@ -3,3 +3,4 @@ Pizza Hawai
 - dough
 - cheese
 - pineapples
+- ham
